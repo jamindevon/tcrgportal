@@ -1,4 +1,4 @@
-import { Home, Building2, Megaphone, BarChart3, Palette, FileText } from 'lucide-react';
+import { Home, Building2, Megaphone, BarChart3, Palette } from 'lucide-react';
 import Link from 'next/link';
 
 export default function Header() {

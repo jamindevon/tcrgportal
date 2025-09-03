@@ -86,7 +86,7 @@ export default function BrandKit() {
                 className="logo-image"
               />
             </div>
-            <p className="tagline">"Building Relationships, Building Community"</p>
+            <p className="tagline">&ldquo;Building Relationships, Building Community&rdquo;</p>
             <p className="tagline-label">Official Tagline</p>
           </div>
           
@@ -184,14 +184,14 @@ export default function BrandKit() {
                 Treasure Coast Realty Group was birthed out of a passion for community development. Our mission is to provide customers the ultimate real estate experience without compromising professionalism, integrity, or commitment.
               </p>
               <p style={{fontSize: '1rem', lineHeight: '1.6', color: 'var(--text-gray)', margin: 0}}>
-                Whether you're a first-time buyer, seasoned investor, or looking to sell, we're your partner in success while supporting the One Fort Pierce initiative.
+                Whether you&apos;re a first-time buyer, seasoned investor, or looking to sell, we&apos;re your partner in success while supporting the One Fort Pierce initiative.
               </p>
             </div>
             
             <div className="typography-card">
               <span className="font-label">Quote Text • Inter Medium Italic</span>
               <blockquote style={{fontSize: '1.5rem', fontWeight: 500, fontStyle: 'italic', color: 'var(--gold)', textAlign: 'center', margin: 0, padding: '2rem 0', border: 'none'}}>
-                "Not only are we known for getting the deal done, but also for fostering lasting relationships."
+                &ldquo;Not only are we known for getting the deal done, but also for fostering lasting relationships.&rdquo;
               </blockquote>
               <p style={{textAlign: 'center', color: 'var(--text-gray)', margin: 0, fontSize: '0.9rem'}}>
                 — Treasure Coast Realty Group

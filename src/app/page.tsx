@@ -66,8 +66,8 @@ export default function Home() {
             compromising professionalism, integrity, or commitment.
           </p>
           <p style={{ fontSize: '1.125rem', color: 'var(--text-gray)', lineHeight: '1.6', maxWidth: '800px', margin: '0 auto' }}>
-            Whether you're a first-time buyer, seasoned investor, or looking to sell, 
-            we're your partner in success while supporting the One Fort Pierce initiative.
+            Whether you&apos;re a first-time buyer, seasoned investor, or looking to sell, 
+            we&apos;re your partner in success while supporting the One Fort Pierce initiative.
           </p>
         </div>
       </section>
@@ -230,7 +230,7 @@ export default function Home() {
           </div>
           <h3 style={{ fontSize: '2rem', fontWeight: '700', marginBottom: '16px' }}>Treasure Coast Realty Group</h3>
           <p style={{ color: 'rgba(255, 255, 255, 0.8)', marginBottom: '24px', fontSize: '1.125rem' }}>
-            "Not only are we known for getting the deal done, but also for fostering lasting relationships."
+            &ldquo;Not only are we known for getting the deal done, but also for fostering lasting relationships.&rdquo;
           </p>
           <p style={{ fontSize: '0.875rem', color: 'rgba(255, 255, 255, 0.6)' }}>
             © 2024 Treasure Coast Realty Group. All rights reserved.

@@ -1,7 +1,7 @@
 import PasswordProtection from '../components/PasswordProtection';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
-import { BarChart3, TrendingUp, TrendingDown, Eye, Users, DollarSign, Calendar, Target, Award } from 'lucide-react';
+import { TrendingUp, TrendingDown, Eye, Users, DollarSign, Calendar, Target, Award } from 'lucide-react';
 
 export default function Analytics() {
   const analyticsData = {
