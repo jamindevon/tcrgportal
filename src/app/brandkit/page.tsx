@@ -174,7 +174,7 @@ export default function BrandKit() {
                 Professional Real Estate Excellence
               </h1>
               <h2 style={{fontSize: '2rem', fontWeight: 600, color: 'var(--gold)', margin: 0, lineHeight: '1.2'}}>
-                Building Fort Pierce's Future
+                Building Fort Pierce&apos;s Future
               </h2>
             </div>
             

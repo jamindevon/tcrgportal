@@ -132,7 +132,7 @@ export default function Marketing() {
   const getFileIcon = (type: string) => {
     switch (type) {
       case 'image':
-        return <Image className="w-4 h-4" />;
+        return <Image className="w-4 h-4" alt="Image file" />;
       case 'video':
         return <Video className="w-4 h-4" />;
       case 'document':
